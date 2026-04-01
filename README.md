@@ -1,5 +1,6 @@
 # Test_task
 Ссылка на Google Collab: https://colab.research.google.com/drive/1YQvqGWnvXPvT6KzV5l3VQgJI28Ra961X?authuser=1
+
 Задача: 
 1. Завести проект на github или gitlab (на ваше усмотрение) 
 2. Взять датасет MNIST из библиотеки torchvision 
